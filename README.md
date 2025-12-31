@@ -7,7 +7,7 @@
 Nota: Esta página apresenta apenas os principais insights e visualizações do estudo.
 A análise completa, incluindo todo o processo estatístico, tratamento de dados, visualizações adicionais e interpretações detalhadas, pode ser consultada nos notebooks disponíveis neste repositório ou diretamente no [Google Colab](https://colab.research.google.com/drive/1Ds48b7uqd7GIC3Kfwy_OD2yoizm-R6Qf?usp=sharing).
 
-## Overview
+## Visão Geral
 Este conjunto de dados contém informações sobre as vendas de video games em diferentes plataformas, gêneros e regiões, sendo extremamente valioso para diversas análises estatísticas e casos de uso em negócios.
 
 Colunas:
