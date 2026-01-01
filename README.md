@@ -1,4 +1,4 @@
-# 🎮 Video Game Sales: Análise Exploratória Orientado a Neǵocios
+# 🎮 Video Game Sales: Análise Exploratória Orientada a Neǵocios
 
 [Read in English](#english)
 
